@@ -1,16 +1,17 @@
 POTENTIAL REQUIREMENTS:
     What device?
-
+Mobile web application
     Connected to what server?
-
-    Private pr public?
-
+Local server in the school, can set up an Arduino Pi
+    Private or public?
+Private (Only teacher)
     Do other teachers want access?
-
+More flexible, might expand for other teachers --> Admin that can give access to other teachers
     Account auth?
-
+Strong passwords for now, might 
     Import/export what files? Format of these files?
-
+Import and export csvs, build rubric with csv, 2 csvs importing (one student and one rubric)
+First and Last names. Apply rubric for each student.
     What tools? (marking, note-taking, what else)
 
     Formatting options?
@@ -18,9 +19,9 @@ POTENTIAL REQUIREMENTS:
     Rubric uploading?
 
     Rather have mark toggle or pure notes?
-
+Rubric can be checklist, maybe have an option for typing. Checklist preferred
     Only for computer engineering?
-
+Flexible based on rubric
     What styling? (colour scheme, font, art style)
 
     Additional requirements?
